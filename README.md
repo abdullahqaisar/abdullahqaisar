@@ -1,7 +1,4 @@
 <h1 align="center">Hey , I'm Abdullah Qaisar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;ACPC+2021+Finalist;DS%20|%20Algorithms%20|%20OOP%20;Specialist%20on%20Codeforces;Division%202%20on%20Codechef%20(3%20Stars);6%20Kyu%20on%20Atcoder;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
-</p>
 
 
 <br>
@@ -52,7 +49,7 @@
   </a> 
   &emsp;
   <a href="https://www.w3schools.com/react/" target="_blank">
-    <img alt="ReactJS" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react">
+    <img alt="ReactJS" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react?style=plastic&logo=appveyor">
   </a> 
 </p>
 
@@ -66,7 +63,7 @@
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Abdullah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=abdullahqaisar&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=7oSkaaa&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="abdullahqaisar" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahqaisar&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="abdullahqaisar" height="192px"/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
@@ -75,5 +72,5 @@
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/abdullahqaisar"><img alt="Abdullah's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=abdullahqaisar&custom_title=abdullahqaisar's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/abdullahqaisar"><img alt="Abdullah's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=abdullahqaisar&custom_title=Abdullah's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
