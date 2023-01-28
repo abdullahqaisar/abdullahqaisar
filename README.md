@@ -1,8 +1,6 @@
 <h1 align="center">Hey , I'm Abdullah Qaisar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
         width="35"></h1>
 
-<br>
-
 ## :sassy_man: About me
 Hi there! 👋 My name is Abdullah, and I am a final-year computer science student at Air University, Islamabad. I have a
 passion for web development and have gained expertise in the MERN stack through my studies, developing projects, and
@@ -26,8 +24,6 @@ science. I am also a team player and a creative developer who is always looking 
             src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
     </a>
 </p>
-
-<br>
 
 ## 🔥 Streak Stats
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahqaisar&theme=algolia"
@@ -85,9 +81,6 @@ science. I am also a team player and a creative developer who is always looking 
 </p>
 
 ## 📊 Github Stats
-
-<summary><b>💻 GitHub Profile Stats</b></summary>
-<br />
 <p>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Abdullah's Github Stats"
             src="https://github-readme-stats.vercel.app/api?username=abdullahqaisar&show_icons=true&count_private=true&theme=algolia"
