@@ -9,15 +9,10 @@ passion for web development and have gained expertise in the MERN stack through 
 internships.
 
 I am a proactive learner and enjoy staying up to date with the latest trends and developments in the field of computer
-science. My current focus is on emerging technologies such as Web 3.0 and blockchain development. I am currently
-developing my final year project using Blockchain and MERN stack.
-
-
+science. I am also a team player and a creative developer who is always looking for ways to improve and take on new challenges.
 <br>
 
 ## 👯 Connect with me
-
-<br>
 <p>
     <a href="https://www.linkedin.com/in/abdullahqaisarr/" target="_blank">
         <img alt="JavaScript"
@@ -37,8 +32,6 @@ developing my final year project using Blockchain and MERN stack.
 ## 🔥 Streak Stats
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahqaisar&theme=algolia"
         alt="abdullahqaisar" /></p>
-
-<br>
 
 ## 🛠️ My Skills
 
