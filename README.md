@@ -43,7 +43,7 @@ developing my final year project using Blockchain and MERN stack.
 ## 🛠️ My Skills
 
 <p>
-    <h2>Languages:    </h2>
+    <summary><b>💻 GitHub Profile Stats</b>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
         <img alt="JavaScript"
             src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
@@ -52,6 +52,7 @@ developing my final year project using Blockchain and MERN stack.
         <img alt="Python"
             src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
     </a>
+            </summary>
         <br/>
     <a href="https://www.w3.org/html/" target="_blank">
         <img alt="HTML"
