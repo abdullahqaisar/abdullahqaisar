@@ -1,9 +1,7 @@
 <h1 align="center">Hey , I'm Abdullah Qaisar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
         width="35"></h1>
 
-
 <br>
-
 
 ## :sassy_man: About me
 Hi there! 👋 My name is Abdullah, and I am a final-year computer science student at Air University, Islamabad. I have a
@@ -37,16 +35,16 @@ developing my final year project using Blockchain and MERN stack.
 <br>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahqaisar&theme=algolia"
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahqaisar&theme=algolia"
         alt="abdullahqaisar" /></p>
 
-<br>
 <br>
 
 ## 🛠️ My Skills
 
 <p>
     &emsp;
+        <h2>Languages:- </h2>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
         <img alt="JavaScript"
             src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
