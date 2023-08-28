@@ -19,10 +19,6 @@ Hello there! 👋 I'm Abdullah, a Software Engineer at GoSaaS, Inc., and a recen
     </a>
 </p>
 
-## 🔥 Streak Stats
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahqaisar&theme=algolia"
-        alt="abdullahqaisar" /></p>
-
 ## 🛠️ My Skills
 
 <p>
@@ -73,6 +69,10 @@ Hello there! 👋 I'm Abdullah, a Software Engineer at GoSaaS, Inc., and a recen
             src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
     </a>
 </p>
+
+## 🔥 Streak Stats
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahqaisar&theme=algolia"
+        alt="abdullahqaisar" /></p>
 
 ## 📊 Github Stats
 <p>
