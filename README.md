@@ -2,7 +2,7 @@
         width="35"></h1>
 
 ## :sassy_man: About me
-Hello there! 👋 I'm Abdullah, a Software Engineer at Intel Corporation., and a recent computer science graduate from Air University, Islamabad. I'm passionate about crafting scalable applications. As a problem-solver and critical thinker, I’m always eager to learn and take on new challenges. I also have a love for the beauty of the clouds and sky and I often capture their stunning visuals.
+Hello there! 👋 I'm Abdullah, a Software Engineer at GoSaaS, Inc, and a recent computer science graduate from Air University, Islamabad. I'm passionate about crafting scalable applications. As a problem-solver and critical thinker, I’m always eager to learn and take on new challenges. I also have a love for the beauty of the clouds and sky and I often capture their stunning visuals.
 
 ## 👯 Connect with me
 <p>
