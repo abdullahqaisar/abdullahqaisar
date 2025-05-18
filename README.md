@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Abdullah Qaisar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 
 ## 👨‍💻 About Me
-Software Engineer at GoSaaS, Inc. with a Computer Science degree from Air University, Islamabad. I build scalable applications with modern tech stacks. As a problem-solver and critical thinker, I'm always eager to learn and take on new challenges. When not coding, I enjoy capturing the beauty of clouds and sky.
+Software Engineer at GoSaaS, Inc. with a Computer Science degree from Air University, Islamabad. I build scalable applications with modern tech stacks and solve real problems
 
 ## 🔗 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullahqaisarr/)
